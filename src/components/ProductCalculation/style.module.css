@@ -1,0 +1,12 @@
+.calculation {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    padding-left: 1180px;
+    margin-top: -75px;
+}
+
+.increase,
+.decrease {
+    margin-left: 10px;
+}
